@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chigo
-- 👀 I’m interested in FinTech and web development(about two weeks ago lol)
+- 👀 I’m interested in FinTech and web development
 - 🌱 I’m currently learning HTML/CSS and Js soon
 - 💞️ I’m looking to collaborate on projects. 
 - 📫 How to reach me @coolchigi0031@gmail.com
