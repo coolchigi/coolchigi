@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chigo
+- 👋 Hi, you can all Chigo
 - 👀 I’m interested in FinTech and web development
 - 🌱 I’m currently learning HTML/CSS and Js soon
 - 💞️ I’m looking to collaborate on projects. 
