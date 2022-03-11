@@ -1,7 +1,7 @@
 - 👋 Hi, you can call Chigo
 - 👀 I’m interested in FinTech and web development
 - 🌱 I’m currently learning how to make responsive websites
-- 💞️ I’m looking to collaborate on projects. 
+- 💞️ I’m looking for Summer 2022 internship opportunities 
 - 📫 How to reach me @chigo.s.eke@gmail.com
 
 <!---
