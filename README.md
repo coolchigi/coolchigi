@@ -1,6 +1,6 @@
 - 👋 Hi, you can call Chigo
 - 👀 I’m interested in FinTech and web development
-- 🌱 I’m currently learning data structures and algorithms
+- 🌱 I’m currently learning how to make responsive websites
 - 💞️ I’m looking to collaborate on projects. 
 - 📫 How to reach me @coolchigi0031@gmail.com
 
