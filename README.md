@@ -1,6 +1,6 @@
 - 👋 Hi, you can call Chigo
-- 👀 I’m interested in FinTech and web development
-- 🌱 I’m currently learning how to make responsive websites
+- 👀 I’m interested in Cloud Computing
+- 🌱 I’m currently AWS infrastruture and preparing to take the SAA-CO2 next week
 - 💞️ I’m looking for Summer 2022 internship opportunities 
 - 📫 How to reach me @chigo.s.eke@gmail.com
 
