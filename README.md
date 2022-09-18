@@ -1,7 +1,7 @@
 - 👋 Hi, you can call Chigo
 - 👀 I’m interested in Cloud Computing
 - 🌱 I’m currently learning about the AWS infrastruture (2x AWS Certified)
-- 💞️ I’m looking for Fall 2022 internship opportunities 
+- 💞️ I’m looking for Winter 2023 internship opportunities 
 - 📫 How to reach me @chigo.s.eke@gmail.com
 
 <!---
