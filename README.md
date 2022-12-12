@@ -1,6 +1,6 @@
 - 👋 Hi, you can call Chigo
 - 👀 I’m interested in Cloud Computing
-- 🌱 I’m currently learning about the AWS infrastruture (2x AWS Certified)
+- 🌱 I’m currently learning how to use Terraform to automate infrastrucutre (2x AWS Certified)
 - 💞️ I’m looking for Summer 2023 internship opportunities 
 - 📫 How to reach me @chigo.s.eke@gmail.com
 
