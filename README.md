@@ -1,5 +1,7 @@
  👋 Hi there and thanks for checking out my Github profile
  
+ ---
+ 
 😊 My name is Chigozirim, and I am a student @ Carleton University. Here, you'll find a variety of projects that showcase my skills and experience in Cloud Computing and Web Development. 
   
   ⚡ Cool Stats
@@ -31,4 +33,4 @@ Ex Quality Engineer Coop @ TD and Ex Cloud Solutions intern @ Momentive.ai
 
 ---
 
-🌐 Check out my website https://chigozirimeke.me
+🌐 Check out my website https://chigozirimeke.me 
