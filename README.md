@@ -1,4 +1,6 @@
-- 👋 Hi, you can call Chigo
+- 👋 Hi there, I'm Chigo! 
+
+---
 - 👀 I’m interested in Cloud Computing
 - 🌱 I’m currently learning how to use Terraform to automate infrastrucutre (2x AWS Certified)
 - 💞️ I’m looking for Summer 2023 internship opportunities 
