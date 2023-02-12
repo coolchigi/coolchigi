@@ -33,4 +33,4 @@ Ex Quality Engineer Coop @ TD and Ex Cloud Solutions intern @ Momentive.ai
 
 ---
 
-🌐 Check out my website https://chigozirimeke.me 
+🌐 Check out my website https://chigozirimeke.me - ⚠️ under construction atm ⚠️
