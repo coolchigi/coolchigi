@@ -5,10 +5,10 @@
 😊 My name is Chigozirim, and I am a student @ Carleton University. Here, you'll find a variety of projects that showcase my skills and experience in Cloud Computing and Web Development. 
   
   ⚡ Cool Stats
-  - I am 2x AWS Certified - I know how to build highly resilient & fault tolerant architectures
+  - I am 2x AWS Certified - I know how to design highly resilient & fault tolerant architectures
   - Work with a variety of programming languages such as Javascript, Python, Java, YAML & Bash
   - Teaching assistant @ Carleton University
-  - Learning about automating infrasctuture with Terraform
+  - Learning about automating infrastructure with Terraform
   
  ---
 
