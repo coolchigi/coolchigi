@@ -7,7 +7,7 @@
   ⚡ Cool Stats
   - I am 2x AWS Certified - I know how to design highly resilient & fault tolerant architectures
   - Work with a variety of programming languages such as Javascript, Python, Java, YAML & Bash
-  - Teaching assistant @ Carleton University
+  - Quality Engineer Intern @TD | Incoming Cloud Solutions Engineer intern @Momentive.ai
   - Learning about automating infrastructure with Terraform
   
  ---
