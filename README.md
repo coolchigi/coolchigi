@@ -3,8 +3,10 @@
  ---
  
 😊 My name is Chigozirim, and I am a student @ Carleton University. Here, you'll find a variety of projects that showcase my skills and experience in Cloud Computing and Web Development. 
+
+ ---
   
-  ⚡ Cool Stats
+  ⚡ Cool Facts About Me
   - I am 2x AWS Certified - I know how to design highly resilient & fault tolerant architectures
   - Work with a variety of programming languages such as Javascript, Python, Java, YAML & Bash
   - Quality Engineer Intern @TD | Incoming Cloud Solutions Engineer intern @Momentive.ai
