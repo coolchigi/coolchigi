@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/72313512/235548722-fa33816b-5269-4401-b136-373b990d2a10.png)
+<img src="https://user-images.githubusercontent.com/72313512/235548722-fa33816b-5269-4401-b136-373b990d2a10.png", width=200>
 <h1 align="center">Hi 👋, I'm Chigo</h1>
 <h3 align="center">A passionate Cloud & Full stack Engineer based in Ottawa, ON</h3>
 
