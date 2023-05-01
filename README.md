@@ -1,7 +1,8 @@
-<h3 align="center"> <img src="https://www.freepik.com/free-vector/hand-drawn-flat-design-devops-illustration_25860641.htm#page=4&query=devops&position=42&from_view=keyword&track=sph"/> </h3>
+<h3 align="center"> <img src="https://www.freepik.com/free-vector/hand-drawn-flat-design-devops-illustration_25860641.htm#page=4&query=devops&position=42&from_view=keyword&track=sph"> </h3>
 <h1 align="center">Hi 👋, I'm Chigo</h1>
 <h3 align="center">A passionate Cloud & Full stack Engineer based in Ottawa, ON</h3>
 
+![image](https://user-images.githubusercontent.com/72313512/235548722-fa33816b-5269-4401-b136-373b990d2a10.png)
 
 - 🔭 I’m currently working on [Serverless Resume Website](https://github.com/coolchigi/AWS)
 
