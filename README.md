@@ -1,4 +1,5 @@
 <h3 align="center"> <img src="https://drive.google.com/drive/folders/1_Svn4xUnYMwcX3TQlBEEr47n7EJKCzAP"> </h3>
+![Alt text](/../<branch name>/path/to/image.png?raw=truehttps://drive.google.com/drive/folders/1_Svn4xUnYMwcX3TQlBEEr47n7EJKCzAP)
 <h1 align="center">Hi 👋, I'm Chigo</h1>
 <h3 align="center">A passionate Cloud & Full stack Engineer based in Ottawa, ON</h3>
 
