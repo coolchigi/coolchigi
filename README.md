@@ -1,9 +1,13 @@
- <h1 align="center">Hi 👋, I'm Chigo</h1>
+<h1 align="center">Hi 👋, I'm Chigo</h1>
 <h3 align="center">A passionate Cloud & Full stack Engineer based in Ottawa, ON</h3>
 
 - 🔭 I’m currently working on [Serverless Resume Website](https://github.com/coolchigi/AWS)
 
 - 🌱 I’m currently learning **Terraform, Kubernetes & Docker**
+
+- 👯 I’m looking to collaborate on [Serverless Application Model](https://github.com/aws/aws-sam-cli)
+
+- 👨‍💻 All of my projects are available at [https://chigozirimeke.me](https://chigozirimeke.me)
 
 - 💬 Ask me about **Cloud Computing, MERN Stack, Serverless Architecture,**
 
@@ -20,4 +24,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=coolchigi&show_icons=true&locale=en&layout=compact" alt="coolchigi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coolchigi&" alt="coolchigi" /></p>
-
