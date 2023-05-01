@@ -1,4 +1,5 @@
-<img src="https://user-images.githubusercontent.com/72313512/235548722-fa33816b-5269-4401-b136-373b990d2a10.png", width=200>
+<img src="https://user-images.githubusercontent.com/72313512/235548722-fa33816b-5269-4401-b136-373b990d2a10.png" width=200>
+<img src="https://user-images.githubusercontent.com/72313512/235548722-fa33816b-5269-4401-b136-373b990d2a10.png" alt="Girl in a jacket" width="500" height="600">
 <h1 align="center">Hi 👋, I'm Chigo</h1>
 <h3 align="center">A passionate Cloud & Full stack Engineer based in Ottawa, ON</h3>
 
