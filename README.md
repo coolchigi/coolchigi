@@ -28,7 +28,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=coolchigi&show_icons=true&locale=en&layout=compact" alt="coolchigi" /></p>
 
 <div>
-<h1 align="center"> GitHub Stats </h1>
+<h3 align="center"> GitHub Stats </h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coolchigi&show_icons=true&locale=en" alt="coolchigi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coolchigi&" alt="coolchigi" /></p>
