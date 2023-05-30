@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [Serverless Application Model](https://github.com/aws/aws-sam-cli)
 
-- 👨‍💻 All of my projects are available at [https://chi.me](#)
+<!-- - 👨‍💻 All of my projects are available at [https://chi.me](#) -->
 
 - 💬 Ask me about **Cloud Computing, MERN Stack, Serverless Architecture,**
 
