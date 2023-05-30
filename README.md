@@ -11,11 +11,11 @@
 
 - 👯 I’m looking to collaborate on [Serverless Application Model](https://github.com/aws/aws-sam-cli)
 
-- 👨‍💻 All of my projects are available at [https://chigozirimeke.me](https://chigozirimeke.me)
+- 👨‍💻 All of my projects are available at [https://chi.me](#)
 
 - 💬 Ask me about **Cloud Computing, MERN Stack, Serverless Architecture,**
 
-- 📫 How to reach me **chigo.s.eke@gmail.com**
+- 📫 How to reach me ****
 
 <div>
 <h3 align="center">Connect with me:</h3>
