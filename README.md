@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Cloud Computing, MERN Stack, Serverless Architecture,**
 
-- 📫 How to reach me ****
+<!-- - 📫 How to reach me **** -->
 
 <div>
 <h3 align="center">Connect with me:</h3>
