@@ -13,7 +13,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at [https://chi.me](#) -->
 
-- 💬 Ask me about **Cloud Computing, MERN Stack, Serverless Architecture,**
+- 💬 Ask me about **Cloud Computing, MERN Stack, Serverless Architecture or anything related to tech**
 
 <!-- - 📫 How to reach me **** -->
 
