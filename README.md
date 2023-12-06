@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [Serverless Resume Website](https://github.com/coolchigi/AWS)
+- 🔭 I’m currently working on [MindsDB Powered Management System](https://github.com/coolchigi/Dining-Management-System-with-MindsDB)
 
 - 🌱 I’m currently learning **Terraform, Kubernetes & Docker**
 
