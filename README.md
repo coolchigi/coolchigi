@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [MindsDB Powered Management System](https://github.com/coolchigi/Dining-Management-System-with-MindsDB)
+- 🔭 I’m currently working on [Contributing to CNCF](https://github.com/coolchigi/awesome-compose)
 
 - 🌱 I’m currently learning **Terraform, Kubernetes & Docker**
 
