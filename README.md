@@ -15,16 +15,6 @@
 
 - 💬 Ask me about **Cloud Computing, MERN Stack, Serverless Architecture or anything related to tech**
 
-<!-- - 📫 How to reach me **** -->
-
-### **Connect with Me On Social Media** 🤝🏻 &nbsp;
-
-<h3 align="left">
-<a href="https://www.linkedin.com/in/chigozirim-eke/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="50"/></a>
-<a href="https://chigo.hashnode.dev/" target="_blank"><img src="https://img.icons8.com/color/96/000000/hashnode.png" alt="hashnode" width="50"/></a>
-<a href="chigo.s.eke@gmail.com" target="_blank"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="gmail" width="50"/></a>
-<br>
-
 <h2>Techology Stack and Experience 💻</h2>
 <h4> ⚙️ Infrastructure & Scripting ⚙️</h4> 
 <p align="left"> 
@@ -45,6 +35,17 @@
 <h3 align="center"> GitHub Stats </h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coolchigi&show_icons=true&locale=en" alt="coolchigi" /></p>
 </div>
+
+
+<!-- - 📫 How to reach me **** -->
+
+### 🤝🏻 **Connect with Me On Social Media** 🤝🏻 &nbsp;
+
+<h3 align="left">
+<a href="https://www.linkedin.com/in/chigozirim-eke/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="50"/></a>
+<a href="https://chigo.hashnode.dev/" target="_blank"><img src="https://img.icons8.com/color/96/000000/hashnode.png" alt="hashnode" width="50"/></a>
+<a href="chigo.s.eke@gmail.com" target="_blank"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="gmail" width="50"/></a>
+<br>
 
 
 
