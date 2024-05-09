@@ -20,9 +20,9 @@
 ### **Connect with Me On Social Media** 🤝🏻 &nbsp;
 
 <h3 align="left">
-<a href="https://www.linkedin.com/in/chigozirim-eke/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="150"/></a>
-<a href="https://chigo.hashnode.dev/" target="_blank"><img src="https://img.icons8.com/color/96/000000/hashnode.png" alt="hashnode" width="150"/></a>
-<a href="chigo.s.eke@gmail.com" target="_blank"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="gmail" width="150"/></a>
+<a href="https://www.linkedin.com/in/chigozirim-eke/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="50"/></a>
+<a href="https://chigo.hashnode.dev/" target="_blank"><img src="https://img.icons8.com/color/96/000000/hashnode.png" alt="hashnode" width="50"/></a>
+<a href="chigo.s.eke@gmail.com" target="_blank"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="gmail" width="50"/></a>
 <br>
 
 <h2>Techology Stack and Experience 💻</h2>
