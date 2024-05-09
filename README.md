@@ -39,7 +39,7 @@
 
 
 <!-- - 📫 How to reach me **** -->
-<h2 align="center> 🤝🏻 Connect with Me On Social Media 🤝🏻</h2>
+<h2 style="text-align: center;> 🤝🏻 Connect with Me On Social Media 🤝🏻</h2>
 <h3 align="left">
 <a href="https://www.linkedin.com/in/chigozirim-eke/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="50"/></a>
 <a href="https://chigo.hashnode.dev/" target="_blank"><img src="https://img.icons8.com/color/96/000000/hashnode.png" alt="hashnode" width="50"/></a>
