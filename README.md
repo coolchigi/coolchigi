@@ -1,4 +1,4 @@
-<h3 align="center"><img src="https://utfs.io/f/031d6a6c-b654-40ba-9fbd-8135fbaae1dd-t6mvsd.gif" width=500></h3>
+<h3 align="center"><img src="https://utfs.io/f/347ae53e-ace8-4a6a-95b9-b2eed5df772a-bvmq21.png" width=500></h3>
 
 <h1 align="center">Hi 👋, I'm Chigo</h1>
 <h3 align="center">A passionate Cloud & Full stack Engineer based in Ottawa, ON</h3>
