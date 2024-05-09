@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Cloud Computing, MERN Stack, Serverless Architecture or anything related to tech**
 
-<h2>Techology Stack and Experience 💻</h2>
+<h2 align="center">Techology Stack and Experience 💻</h2>
 <h4> ⚙️ Infrastructure & Scripting ⚙️</h4> 
 <p align="left"> 
 <img alt="terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white" width="100" height="30" />
