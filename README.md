@@ -38,8 +38,8 @@
                                                                                                                                                                                                                                                                                                                                                                 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=coolchigi&show_icons=true&locale=en&layout=compact" alt="coolchigi" /></p>
 
-<div>
-<h3 align="center"> GitHub Stats </h3>
+<div align="center">
+<h3> GitHub Stats </h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coolchigi&show_icons=true&locale=en" alt="coolchigi" /></p>
 </div>
 
