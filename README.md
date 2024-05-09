@@ -17,7 +17,7 @@
 
 <h2 align="center">Techology Stack and Experience 💻</h2>
 <div align="center">
-<h4> ⚙️ Infrastructure & Scripting ⚙️</h4> 
+<h3> ⚙️ <strong> Infrastructure & Scripting </strong> ⚙️</h3> 
 <p> 
 <img alt="terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white" width="100" height="30" />
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" width="70" height="30" />
@@ -25,6 +25,8 @@
 <a href="https://kubernetes.io/docs/home/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="kubernetes" width="120" height="60"/> </a>
 </p>
 </div>
+
+</br>
 
 <h2 align="center">🔧 Programming Languages 🔧 </h2>
 <div align="center">
