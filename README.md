@@ -7,13 +7,14 @@
 
 - 🔭 I’m currently working on [Contributing to CNCF](https://github.com/coolchigi/awesome-compose)
 
-- 🌱 I’m currently learning **Terraform, Kubernetes & Docker**
+- 🌱 I’m currently learning **AWS, Kubernetes & Frontend Framework**
 
-- 👯 I’m looking to collaborate on [Serverless Application Model](https://github.com/aws/aws-sam-cli)
+- 👯 I’m looking to collaborate on [..anything AWS related](https://github.com/awsdocs) or [https://github.com/aws-samples]
 
 <!-- - 👨‍💻 All of my projects are available at [https://chi.me](#) -->
 
 - 💬 Ask me about **Cloud Computing, MERN Stack, Serverless Architecture or anything related to tech**
+- You could also ask me about *non-tech* stuff like playing soccer, video games (GTA go brrrr), cooking or my faith! I am a Jesus girl!
 
 <br>
 
