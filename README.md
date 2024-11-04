@@ -5,11 +5,11 @@
 
 
 
-- 🔭 I’m currently working on [Contributing to CNCF](https://github.com/coolchigi/awesome-compose)
+- 🔭 I’m currently working on [Contributing to awesome-compose](https://github.com/coolchigi/awesome-compose)
 
 - 🌱 I’m currently learning **AWS, Kubernetes & Frontend Framework**
 
-- 👯 I’m looking to collaborate on [..anything AWS related](https://github.com/awsdocs) or (AWS Samples)[https://github.com/aws-samples]
+- 👯 I’m looking to collaborate on [..anything AWS related](https://github.com/awsdocs) or [AWS Samples](https://github.com/aws-samples)
 
 <!-- - 👨‍💻 All of my projects are available at [https://chi.me](#) -->
 
