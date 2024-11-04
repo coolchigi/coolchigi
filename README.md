@@ -1,4 +1,4 @@
-<h3 align="center"><img src="assets/profile-pic.jpg" width=700></h3>
+<h3 align="center"><img src="assets/profile-pic.jpg" width=900></h3>
 
 
 
