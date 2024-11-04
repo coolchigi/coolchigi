@@ -1,4 +1,4 @@
-<h3 align="center"><img src="https://utfs.io/f/347ae53e-ace8-4a6a-95b9-b2eed5df772a-bvmq21.png" width=500></h3>
+<h3 align="center"><img src="https://unsplash.com/photos/a-close-up-of-a-text-description-on-a-computer-screen-842ofHC6MaI" width=500></h3>
 
 <h1 align="center">Hi 👋, I'm Chigo</h1>
 <h3 align="center">A passionate Cloud & Full stack Engineer based in Ottawa, ON</h3>
@@ -9,12 +9,12 @@
 
 - 🌱 I’m currently learning **AWS, Kubernetes & Frontend Framework**
 
-- 👯 I’m looking to collaborate on [..anything AWS related](https://github.com/awsdocs) or [https://github.com/aws-samples]
+- 👯 I’m looking to collaborate on [..anything AWS related](https://github.com/awsdocs) or (AWS Samples)[https://github.com/aws-samples]
 
 <!-- - 👨‍💻 All of my projects are available at [https://chi.me](#) -->
 
 - 💬 Ask me about **Cloud Computing, MERN Stack, Serverless Architecture or anything related to tech**
-- You could also ask me about *non-tech* stuff like playing soccer, video games (GTA go brrrr), cooking or my faith! I am a Jesus girl!
+- You could also ask me about *non-tech* stuff like playing soccer, video games (GTA go brrrr), cooking or my faith! I am a Jesus girl🙏!
 
 <br>
 
