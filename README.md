@@ -1,4 +1,6 @@
-<h3 align="center"><img src="https://unsplash.com/photos/a-close-up-of-a-text-description-on-a-computer-screen-842ofHC6MaI" width=500></h3>
+<h3 align="center"><img src="assets/profile-pic.jpg" width=700></h3>
+
+
 
 <h1 align="center">Hi 👋, I'm Chigo</h1>
 <h3 align="center">A passionate Cloud & Full stack Engineer based in Ottawa, ON</h3>
