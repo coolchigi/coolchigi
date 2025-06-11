@@ -16,7 +16,7 @@
 <!-- - 👨‍💻 All of my projects are available at [https://chi.me](#) -->
 
 - 💬 Ask me about **Cloud Computing, MERN Stack, Serverless Architecture or anything related to tech**
-- You could also ask me about *non-tech* stuff like playing soccer, video games (GTA go brrrr), cooking or my faith! I am a Jesus girl🙏!
+- You could also ask me about *non-tech* stuff like playing soccer, perfumes, video games (GTA go brrrr), cooking or my faith! I am a Jesus girl🙏!
 
 <br>
 
