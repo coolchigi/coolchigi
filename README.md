@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on [Contributing to awesome-compose](https://github.com/coolchigi/awesome-compose)
+- 🔭 I’m currently working on [career-ops](https://github.com/career-ops-hq/career-ops)
 
 - 🌱 I’m currently learning **AWS, Kubernetes & Frontend Framework**
 
